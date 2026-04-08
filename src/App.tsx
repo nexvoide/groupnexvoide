@@ -15,8 +15,8 @@ function App() {
 
   const domains = [
     {
-      title: 'Nexvoide',
-      subtitle: 'Brand & Businesses',
+      title: 'Brand & Businesses',
+      subtitle: 'nexovide.com',
       url: 'https://nexvoide.com',
       icon: Globe,
       tag: 'Main Platform',
@@ -27,8 +27,8 @@ function App() {
       gradient: 'from-[#0d1440] via-[#1a237e] to-[#2642ff]',
     },
     {
-      title: 'Partners',
-      subtitle: 'Production Houses & Agencies',
+      title: 'Production Houses',
+      subtitle: 'partner.nexvoide.com',
       url: 'https://partners.nexvoide.com',
       icon: Users,
       tag: 'Enterprise',
